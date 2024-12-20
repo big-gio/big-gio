@@ -6,3 +6,24 @@
 - 💬 Me puedes preguntar sobre **PANDAS y modelos de ML mediante scikit-learn**
 
 - 📫 Me contactas al correo: **gcc.datascientist@gmail.com**
+
+</h4>  
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/big-gio/big-gio/blob/main/github-contribution-grid-snake.svg)
+
+<br/>
+
+
+
+
+
+#
+
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+
+
+<br>
+<br>
