@@ -1,5 +1,4 @@
 ![REDES_NEURONALES](https://github.com/big-gio/big-gio/blob/main/IMAGEN/luces_redes_neuronales.jpg)
-
 <h1 align="center">Hola, Mundo! 👋 Soy Giovanni</h1>
 <h3 align="center">He descubierto una nueva pasión, que es el mundo del Machine Learning. Es por eso que quiero dedicarme a la implementación de modelos.</h3>
 
