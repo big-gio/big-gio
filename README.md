@@ -8,7 +8,8 @@
 
 - 📫 Me contactas al correo: **gcc.datascientist@gmail.com**
 
-**Mis habilidades:**
+**Lenguajes y herramientas:**
+
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
 </h4>  
