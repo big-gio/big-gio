@@ -8,6 +8,10 @@
 
 - 📫 Me contactas al correo: **gcc.datascientist@gmail.com**
 
+
+Puedes ver mis [**diplomas**](https://github.com/big-gio/big-gio/tree/main/DIPLOMAS)
+
+
 **Lenguajes y herramientas:**
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow&theme=light)](https://skillicons.dev)
