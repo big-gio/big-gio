@@ -1,17 +1,17 @@
 ![REDES_NEURONALES](https://github.com/big-gio/big-gio/blob/main/IMAGEN/luces_redes_neuronales.jpg)
 <h1><</>/>Giovanni</h1>
-<h3>No soy un robot; soy un científico de datos, apasionado por la implementación de algoritmos de Machine y Deep Learning</h3>
 
-- Escríbeme: **gcc.datascientist@gmail.com**
+No soy un robot; soy un científico de datos, apasionado por la **implementación de algoritmos de Machine y Deep Learning**
 
-- Descarga mi [**CV**] (en construcción)
+> Escríbeme: **gcc.datascientist@gmail.com**
 
-- Pregúntame sobre **PANDAS y modelos de ML mediante scikit-learn**
+> Descarga mi [**CV**] (en construcción)
 
-- Puedes ver mis [**diplomas**](https://github.com/big-gio/big-gio/tree/main/DIPLOMAS)
+> Pregúntame sobre **PANDAS y modelos de ML mediante scikit-learn**
 
+> Puedes ver mis [**diplomas**](https://github.com/big-gio/big-gio/tree/main/DIPLOMAS)
 
-**</>Lenguajes y herramientas:**
+>Lenguajes y herramientas:
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
