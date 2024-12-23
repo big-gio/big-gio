@@ -3,15 +3,15 @@
 
 No soy un robot; soy un científico de datos, apasionado por la **implementación de algoritmos de Machine y Deep Learning**
 
-> Escríbeme: **gcc.datascientist@gmail.com**
+* Escríbeme: **gcc.datascientist@gmail.com**
 
-> Descarga mi [**CV**] (en construcción)
+* Descarga mi [**CV**] (en construcción)
 
-> Pregúntame sobre **PANDAS y modelos de ML mediante scikit-learn**
+* Pregúntame sobre **PANDAS y modelos de ML mediante scikit-learn**
 
-> Puedes ver mis [**diplomas**](https://github.com/big-gio/big-gio/tree/main/DIPLOMAS)
+* Puedes ver mis [**diplomas**](https://github.com/big-gio/big-gio/tree/main/DIPLOMAS)
 
->Lenguajes y herramientas:
+* Lenguajes y herramientas:
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
