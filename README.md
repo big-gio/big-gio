@@ -13,7 +13,7 @@ No soy un robot; soy un científico de datos, apasionado por la **implementació
 
 * Lenguajes y herramientas:
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow)](https://skillicons.dev)
 
 </h4>  
 
