@@ -17,4 +17,4 @@ No soy un robot; soy un científico de datos, apasionado por la **implementació
 
 </h4>  
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/big-gio/contribution-grid-snake.svg/blob/main/snake.svg)
+![culebra.gif](https://github.com/big-gio/big-gio/blob/main/IMAGEN/grid-snake.svg)
